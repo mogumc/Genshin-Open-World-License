@@ -1,4 +1,4 @@
-# Genshin-Open-World-License
+# Genshin Open World License
 原神开放世界许可
 
 ## 介绍
@@ -13,6 +13,6 @@
 1. 任何时间任何地点直接启动  
 
 ## License
-GOW License
+GOWL License
 
 本证书内容基于**GOWL**授权所有用户使用
